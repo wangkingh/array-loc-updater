@@ -1,0 +1,1003 @@
+[
+    {
+        "label": "unittest",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "unittest",
+        "description": "unittest",
+        "detail": "unittest",
+        "documentation": {}
+    },
+    {
+        "label": "re",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "re",
+        "description": "re",
+        "detail": "re",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "tempfile",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "tempfile",
+        "description": "tempfile",
+        "detail": "tempfile",
+        "documentation": {}
+    },
+    {
+        "label": "OrderedDict",
+        "importPath": "collections",
+        "description": "collections",
+        "isExtraImport": true,
+        "detail": "collections",
+        "documentation": {}
+    },
+    {
+        "label": "OrderedDict",
+        "importPath": "collections",
+        "description": "collections",
+        "isExtraImport": true,
+        "detail": "collections",
+        "documentation": {}
+    },
+    {
+        "label": "defaultdict",
+        "importPath": "collections",
+        "description": "collections",
+        "isExtraImport": true,
+        "detail": "collections",
+        "documentation": {}
+    },
+    {
+        "label": "OrderedDict",
+        "importPath": "collections",
+        "description": "collections",
+        "isExtraImport": true,
+        "detail": "collections",
+        "documentation": {}
+    },
+    {
+        "label": "Counter",
+        "importPath": "collections",
+        "description": "collections",
+        "isExtraImport": true,
+        "detail": "collections",
+        "documentation": {}
+    },
+    {
+        "label": "OrderedDict",
+        "importPath": "collections",
+        "description": "collections",
+        "isExtraImport": true,
+        "detail": "collections",
+        "documentation": {}
+    },
+    {
+        "label": "Counter",
+        "importPath": "collections",
+        "description": "collections",
+        "isExtraImport": true,
+        "detail": "collections",
+        "documentation": {}
+    },
+    {
+        "label": "SeisHandler.pattern_utils",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "SeisHandler.pattern_utils",
+        "description": "SeisHandler.pattern_utils",
+        "detail": "SeisHandler.pattern_utils",
+        "documentation": {}
+    },
+    {
+        "label": "FieldRegistry",
+        "importPath": "SeisHandler.pattern_utils",
+        "description": "SeisHandler.pattern_utils",
+        "isExtraImport": true,
+        "detail": "SeisHandler.pattern_utils",
+        "documentation": {}
+    },
+    {
+        "label": "DEFAULT_BASE_FIELDS",
+        "importPath": "SeisHandler.pattern_utils",
+        "description": "SeisHandler.pattern_utils",
+        "isExtraImport": true,
+        "detail": "SeisHandler.pattern_utils",
+        "documentation": {}
+    },
+    {
+        "label": "check_pattern",
+        "importPath": "SeisHandler.pattern_utils",
+        "description": "SeisHandler.pattern_utils",
+        "isExtraImport": true,
+        "detail": "SeisHandler.pattern_utils",
+        "documentation": {}
+    },
+    {
+        "label": "FieldRegistry",
+        "importPath": "SeisHandler.pattern_utils",
+        "description": "SeisHandler.pattern_utils",
+        "isExtraImport": true,
+        "detail": "SeisHandler.pattern_utils",
+        "documentation": {}
+    },
+    {
+        "label": "logging",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "logging",
+        "description": "logging",
+        "detail": "logging",
+        "documentation": {}
+    },
+    {
+        "label": "patch",
+        "importPath": "unittest.mock",
+        "description": "unittest.mock",
+        "isExtraImport": true,
+        "detail": "unittest.mock",
+        "documentation": {}
+    },
+    {
+        "label": "MagicMock",
+        "importPath": "unittest.mock",
+        "description": "unittest.mock",
+        "isExtraImport": true,
+        "detail": "unittest.mock",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "timedelta",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Set",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Tuple",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Tuple",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Tuple",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "SeisArray",
+        "importPath": "SeisHandler.seis_array",
+        "description": "SeisHandler.seis_array",
+        "isExtraImport": true,
+        "detail": "SeisHandler.seis_array",
+        "documentation": {}
+    },
+    {
+        "label": "SeisArray",
+        "importPath": "SeisHandler.seis_array",
+        "description": "SeisHandler.seis_array",
+        "isExtraImport": true,
+        "detail": "SeisHandler.seis_array",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "ThreadPoolExecutor",
+        "importPath": "concurrent.futures",
+        "description": "concurrent.futures",
+        "isExtraImport": true,
+        "detail": "concurrent.futures",
+        "documentation": {}
+    },
+    {
+        "label": "ThreadPoolExecutor",
+        "importPath": "concurrent.futures",
+        "description": "concurrent.futures",
+        "isExtraImport": true,
+        "detail": "concurrent.futures",
+        "documentation": {}
+    },
+    {
+        "label": "ThreadPoolExecutor",
+        "importPath": "concurrent.futures",
+        "description": "concurrent.futures",
+        "isExtraImport": true,
+        "detail": "concurrent.futures",
+        "documentation": {}
+    },
+    {
+        "label": "as_completed",
+        "importPath": "concurrent.futures",
+        "description": "concurrent.futures",
+        "isExtraImport": true,
+        "detail": "concurrent.futures",
+        "documentation": {}
+    },
+    {
+        "label": "pandas",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pandas",
+        "description": "pandas",
+        "detail": "pandas",
+        "documentation": {}
+    },
+    {
+        "label": "annotations",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "annotations",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "annotations",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "annotations",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "annotations",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "annotations",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "FileMatcher",
+        "importPath": "SeisHandler.file_matcher",
+        "description": "SeisHandler.file_matcher",
+        "isExtraImport": true,
+        "detail": "SeisHandler.file_matcher",
+        "documentation": {}
+    },
+    {
+        "label": "random",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "random",
+        "description": "random",
+        "detail": "random",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "numpy",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "numpy",
+        "description": "numpy",
+        "detail": "numpy",
+        "documentation": {}
+    },
+    {
+        "label": "Trace",
+        "importPath": "obspy",
+        "description": "obspy",
+        "isExtraImport": true,
+        "detail": "obspy",
+        "documentation": {}
+    },
+    {
+        "label": "UTCDateTime",
+        "importPath": "obspy",
+        "description": "obspy",
+        "isExtraImport": true,
+        "detail": "obspy",
+        "documentation": {}
+    },
+    {
+        "label": "read",
+        "importPath": "obspy",
+        "description": "obspy",
+        "isExtraImport": true,
+        "detail": "obspy",
+        "documentation": {}
+    },
+    {
+        "label": "read_inventory",
+        "importPath": "obspy",
+        "description": "obspy",
+        "isExtraImport": true,
+        "detail": "obspy",
+        "documentation": {}
+    },
+    {
+        "label": "SACTrace",
+        "importPath": "obspy.io.sac",
+        "description": "obspy.io.sac",
+        "isExtraImport": true,
+        "detail": "obspy.io.sac",
+        "documentation": {}
+    },
+    {
+        "label": "SACTrace",
+        "importPath": "obspy.io.sac",
+        "description": "obspy.io.sac",
+        "isExtraImport": true,
+        "detail": "obspy.io.sac",
+        "documentation": {}
+    },
+    {
+        "label": "SACTrace",
+        "importPath": "obspy.io.sac",
+        "description": "obspy.io.sac",
+        "isExtraImport": true,
+        "detail": "obspy.io.sac",
+        "documentation": {}
+    },
+    {
+        "label": "atexit",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "atexit",
+        "description": "atexit",
+        "detail": "atexit",
+        "documentation": {}
+    },
+    {
+        "label": "signal",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "signal",
+        "description": "signal",
+        "detail": "signal",
+        "documentation": {}
+    },
+    {
+        "label": "tqdm",
+        "importPath": "tqdm",
+        "description": "tqdm",
+        "isExtraImport": true,
+        "detail": "tqdm",
+        "documentation": {}
+    },
+    {
+        "label": "SeisArray",
+        "importPath": "SeisHandler",
+        "description": "SeisHandler",
+        "isExtraImport": true,
+        "detail": "SeisHandler",
+        "documentation": {}
+    },
+    {
+        "label": "SeisArray",
+        "importPath": "SeisHandler",
+        "description": "SeisHandler",
+        "isExtraImport": true,
+        "detail": "SeisHandler",
+        "documentation": {}
+    },
+    {
+        "label": "RespArray",
+        "importPath": "seishandler_resp",
+        "description": "seishandler_resp",
+        "isExtraImport": true,
+        "detail": "seishandler_resp",
+        "documentation": {}
+    },
+    {
+        "label": "csv",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "csv",
+        "description": "csv",
+        "detail": "csv",
+        "documentation": {}
+    },
+    {
+        "label": "matplotlib",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "matplotlib",
+        "description": "matplotlib",
+        "detail": "matplotlib",
+        "documentation": {}
+    },
+    {
+        "label": "matplotlib.pyplot",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "matplotlib.pyplot",
+        "description": "matplotlib.pyplot",
+        "detail": "matplotlib.pyplot",
+        "documentation": {}
+    },
+    {
+        "label": "tqdm",
+        "importPath": "tqdm.auto",
+        "description": "tqdm.auto",
+        "isExtraImport": true,
+        "detail": "tqdm.auto",
+        "documentation": {}
+    },
+    {
+        "label": "TestPatternUtils",
+        "kind": 6,
+        "importPath": "SeisHandler.tests.test_pattern_utils",
+        "description": "SeisHandler.tests.test_pattern_utils",
+        "peekOfCode": "class TestPatternUtils(unittest.TestCase):\n    def setUp(self):\n        \"\"\"\n        run at the beginning of each test method.\n        \"\"\"\n        # initialize a FieldRegistry with DEFAULT_BASE_FIELDS\n        self.registry = FieldRegistry(DEFAULT_BASE_FIELDS)\n        # create a temporary directory for testing\n        self.temp_dir = tempfile.TemporaryDirectory()\n        self.array_dir = self.temp_dir.name",
+        "detail": "SeisHandler.tests.test_pattern_utils",
+        "documentation": {}
+    },
+    {
+        "label": "TestSeisArray",
+        "kind": 6,
+        "importPath": "SeisHandler.tests.test_seis_array",
+        "description": "SeisHandler.tests.test_seis_array",
+        "peekOfCode": "class TestSeisArray(unittest.TestCase):\n    def setUp(self):\n        \"\"\"\n        每个测试方法前都会执行：\n        1) 创建一个临时目录，\n        2) 在部分用例里写入测试文件，\n        3) 初始化 SeisArray 时可根据需要传不同的 pattern。\n        \"\"\"\n        self.tmpdir = tempfile.TemporaryDirectory()\n        self.test_dir = self.tmpdir.name",
+        "detail": "SeisHandler.tests.test_seis_array",
+        "documentation": {}
+    },
+    {
+        "label": "FileFilter",
+        "kind": 6,
+        "importPath": "SeisHandler.file_filter",
+        "description": "SeisHandler.file_filter",
+        "peekOfCode": "class FileFilter:\n    \"\"\"_summary_\n    - Integrate the old filter logic into a class.\n    - two type include, \"list\" and \"range\"\n    \"\"\"\n    def __init__(\n        self, criteria: Optional[Dict[str, List]] = None, num_threads: int = 1\n    ):\n        \"\"\"_summary_\n        :params criteria: dicr, each key is the field name, and the value is a dict, include",
+        "detail": "SeisHandler.file_filter",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "kind": 5,
+        "importPath": "SeisHandler.file_filter",
+        "description": "SeisHandler.file_filter",
+        "peekOfCode": "logger = logging.getLogger(__name__)\nclass FileFilter:\n    \"\"\"_summary_\n    - Integrate the old filter logic into a class.\n    - two type include, \"list\" and \"range\"\n    \"\"\"\n    def __init__(\n        self, criteria: Optional[Dict[str, List]] = None, num_threads: int = 1\n    ):\n        \"\"\"_summary_",
+        "detail": "SeisHandler.file_filter",
+        "documentation": {}
+    },
+    {
+        "label": "FileMatcher",
+        "kind": 6,
+        "importPath": "SeisHandler.file_matcher",
+        "description": "SeisHandler.file_matcher",
+        "peekOfCode": "class FileMatcher:\n    \"\"\"_summary_\n    A class-based approach for:\n    1. Collecting files from a directory\n    2. Matching each file against a regex pattern\n    3. Extracting time fields and constructing datetime objects\n    \"\"\"\n    def __init__(self, directory: str, regex_pattern: str):\n        \"\"\"\n        :param directory: Root directory to walk through.",
+        "detail": "SeisHandler.file_matcher",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "kind": 5,
+        "importPath": "SeisHandler.file_matcher",
+        "description": "SeisHandler.file_matcher",
+        "peekOfCode": "logger = logging.getLogger(__name__)\nclass FileMatcher:\n    \"\"\"_summary_\n    A class-based approach for:\n    1. Collecting files from a directory\n    2. Matching each file against a regex pattern\n    3. Extracting time fields and constructing datetime objects\n    \"\"\"\n    def __init__(self, directory: str, regex_pattern: str):\n        \"\"\"",
+        "detail": "SeisHandler.file_matcher",
+        "documentation": {}
+    },
+    {
+        "label": "group_by_labels",
+        "kind": 2,
+        "importPath": "SeisHandler.file_organizer",
+        "description": "SeisHandler.file_organizer",
+        "peekOfCode": "def group_by_labels(matched_files, labels, sort_labels):\n    \"\"\"\n    Organize the matched files into a multi-level dictionary according to the order.\n    matched_files: a list of file paths, every file is a dictionary contains fields and path\n    \"\"\"\n    if not matched_files:\n        raise ValueError(\"No files matched. Matching First!.\")\n    df = pd.DataFrame(matched_files)\n    # Check if all the keys in order are in fields of file_info\n    if not all(field in df.columns for field in labels):",
+        "detail": "SeisHandler.file_organizer",
+        "documentation": {}
+    },
+    {
+        "label": "recursive_defaultdict",
+        "kind": 2,
+        "importPath": "SeisHandler.file_organizer",
+        "description": "SeisHandler.file_organizer",
+        "peekOfCode": "def recursive_defaultdict():\n    return defaultdict(recursive_defaultdict)\ndef add_path(multi_dict, keys, value):\n    for key in keys[:-1]:\n        multi_dict = multi_dict[key]\n    # add the value into the last level of the dictionary\n    if not multi_dict[keys[-1]]:\n        multi_dict[keys[-1]] = []\n    multi_dict[keys[-1]].append(value)\ndef organize_by_labels(matched_files, order, information_type):",
+        "detail": "SeisHandler.file_organizer",
+        "documentation": {}
+    },
+    {
+        "label": "add_path",
+        "kind": 2,
+        "importPath": "SeisHandler.file_organizer",
+        "description": "SeisHandler.file_organizer",
+        "peekOfCode": "def add_path(multi_dict, keys, value):\n    for key in keys[:-1]:\n        multi_dict = multi_dict[key]\n    # add the value into the last level of the dictionary\n    if not multi_dict[keys[-1]]:\n        multi_dict[keys[-1]] = []\n    multi_dict[keys[-1]].append(value)\ndef organize_by_labels(matched_files, order, information_type):\n    if not matched_files:\n        raise ValueError(\"No files matched. Matching First!.\")",
+        "detail": "SeisHandler.file_organizer",
+        "documentation": {}
+    },
+    {
+        "label": "organize_by_labels",
+        "kind": 2,
+        "importPath": "SeisHandler.file_organizer",
+        "description": "SeisHandler.file_organizer",
+        "peekOfCode": "def organize_by_labels(matched_files, order, information_type):\n    if not matched_files:\n        raise ValueError(\"No files matched. Matching First!.\")\n    if information_type not in ['path', 'dict']:\n        raise ValueError(\"The information_type should be 'path' or 'dict'\")\n    df = pd.DataFrame(matched_files)\n    multi_dict = recursive_defaultdict()\n    for _, row in df.iterrows():\n        keys = [row[field] for field in order]\n        if information_type == 'path':",
+        "detail": "SeisHandler.file_organizer",
+        "documentation": {}
+    },
+    {
+        "label": "FieldRegistry",
+        "kind": 6,
+        "importPath": "SeisHandler.pattern_utils",
+        "description": "SeisHandler.pattern_utils",
+        "peekOfCode": "class FieldRegistry:\n    def __init__(self, base_fields: Dict[str, str]):\n        \"\"\"_summary_\n        Args:\n            base_fields (Dict[str, str]):\n            as \"YYYY\": r\"(?P<year>\\d{4})\",  # 4 digits for year\n        \"\"\"\n        if base_fields is None:\n            base_fields = {}  # empty dictionary\n        # copy the base fields",
+        "detail": "SeisHandler.pattern_utils",
+        "documentation": {}
+    },
+    {
+        "label": "check_pattern",
+        "kind": 2,
+        "importPath": "SeisHandler.pattern_utils",
+        "description": "SeisHandler.pattern_utils",
+        "peekOfCode": "def check_pattern(array_dir: str, pattern: str, registry: FieldRegistry) -> str:\n    \"\"\"\n    Check if pattern is a valid string and return a dictionary with\n    \"\"\"\n    if not isinstance(pattern, str):\n        logger.error(\"Pattern must be a string, but got %s\", type(pattern))\n        raise TypeError(\"pattern must be a string\")\n    # check if all fields in the pattern are valid\n    registry.validate_pattern_fields(pattern)\n    # avoid duplicate fields",
+        "detail": "SeisHandler.pattern_utils",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "kind": 5,
+        "importPath": "SeisHandler.pattern_utils",
+        "description": "SeisHandler.pattern_utils",
+        "peekOfCode": "logger = logging.getLogger(__name__)\nclass FieldRegistry:\n    def __init__(self, base_fields: Dict[str, str]):\n        \"\"\"_summary_\n        Args:\n            base_fields (Dict[str, str]):\n            as \"YYYY\": r\"(?P<year>\\d{4})\",  # 4 digits for year\n        \"\"\"\n        if base_fields is None:\n            base_fields = {}  # empty dictionary",
+        "detail": "SeisHandler.pattern_utils",
+        "documentation": {}
+    },
+    {
+        "label": "DEFAULT_BASE_FIELDS",
+        "kind": 5,
+        "importPath": "SeisHandler.pattern_utils",
+        "description": "SeisHandler.pattern_utils",
+        "peekOfCode": "DEFAULT_BASE_FIELDS = OrderedDict(\n    {\n        \"YYYY\": r\"(?P<year>\\d{4})\",  # 4 digits for year\n        \"YY\": r\"(?P<year>\\d{2})\",  # 2 digits for year\n        \"MM\": r\"(?P<month>\\d{2})\",  # 2 digits for month\n        \"DD\": r\"(?P<day>\\d{2})\",  # 2 digits for day\n        \"JJJ\": r\"(?P<jday>\\d{3})\",  # 3 digits for day of year\n        \"HH\": r\"(?P<hour>\\d{2})\",  # 2 digits for hour\n        \"MI\": r\"(?P<minute>\\d{2})\",  # 2 digits for minute\n        \"home\": r\"(?P<home>[A-Za-z0-9/_-]+)\",  # for home directory",
+        "detail": "SeisHandler.pattern_utils",
+        "documentation": {}
+    },
+    {
+        "label": "SeisArray",
+        "kind": 6,
+        "importPath": "SeisHandler.seis_array",
+        "description": "SeisHandler.seis_array",
+        "peekOfCode": "class SeisArray:\n    \"\"\"\n    SeisArray class is designed for organizing the noise data into a virtual array.\n    \"\"\"\n    def __init__(\n        self,\n        array_dir: str,\n        pattern: str,\n        custom_fields: Optional[Dict[str, str]] = None,\n        overwrite: bool = False,",
+        "detail": "SeisHandler.seis_array",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "kind": 5,
+        "importPath": "SeisHandler.seis_array",
+        "description": "SeisHandler.seis_array",
+        "peekOfCode": "logger = logging.getLogger(__name__)\nclass SeisArray:\n    \"\"\"\n    SeisArray class is designed for organizing the noise data into a virtual array.\n    \"\"\"\n    def __init__(\n        self,\n        array_dir: str,\n        pattern: str,\n        custom_fields: Optional[Dict[str, str]] = None,",
+        "detail": "SeisHandler.seis_array",
+        "documentation": {}
+    },
+    {
+        "label": "register_resp_fields",
+        "kind": 2,
+        "importPath": "seishandler_resp.profiles",
+        "description": "seishandler_resp.profiles",
+        "peekOfCode": "def register_resp_fields() -> None:\n    \"\"\"冗余注册函数（重复 import 也安全）\"\"\"\n    FieldRegistry.register(\"resp_type\", r\"(RESP|StationXML|PAZ|FAP)\")\n    FieldRegistry.register(\"version\", r\"v\\d{2}\")\ndef check_resp_pattern(pattern: str) -> None:\n    \"\"\"验证 pattern 是否含必需占位符；缺失则抛 ValueError\"\"\"\n    fields = set(FieldRegistry.get_fields(pattern))\n    missing = REQUIRED_RESPONSE_FIELDS - fields\n    if missing:\n        raise ValueError(f\"RESP pattern 缺少字段: {sorted(missing)} — {pattern}\")",
+        "detail": "seishandler_resp.profiles",
+        "documentation": {}
+    },
+    {
+        "label": "check_resp_pattern",
+        "kind": 2,
+        "importPath": "seishandler_resp.profiles",
+        "description": "seishandler_resp.profiles",
+        "peekOfCode": "def check_resp_pattern(pattern: str) -> None:\n    \"\"\"验证 pattern 是否含必需占位符；缺失则抛 ValueError\"\"\"\n    fields = set(FieldRegistry.get_fields(pattern))\n    missing = REQUIRED_RESPONSE_FIELDS - fields\n    if missing:\n        raise ValueError(f\"RESP pattern 缺少字段: {sorted(missing)} — {pattern}\")",
+        "detail": "seishandler_resp.profiles",
+        "documentation": {}
+    },
+    {
+        "label": "RespArray",
+        "kind": 6,
+        "importPath": "seishandler_resp.resp_array",
+        "description": "seishandler_resp.resp_array",
+        "peekOfCode": "class RespArray(SeisArray):\n    \"\"\"\n    专用于 RESP / StationXML 的 SeisArray 派生类\n    —— 跳过日期校验；match 时用 RespMatcher（不生成 time 字段）\n    \"\"\"\n    def __init__(self, resp_dir: str, pattern: str,\n                 *, custom_fields: dict | None = None, **kwargs):\n        # ------------------------------------------------------------------ #\n        # 0) 基础自定义字段\n        base = {\"resptype\": r\"(RESP|StationXML|PAZ|FAP)\",",
+        "detail": "seishandler_resp.resp_array",
+        "documentation": {}
+    },
+    {
+        "label": "RespMatcher",
+        "kind": 6,
+        "importPath": "seishandler_resp.resp_matcher",
+        "description": "seishandler_resp.resp_matcher",
+        "peekOfCode": "class RespMatcher(FileMatcher):\n    \"\"\"Same as FileMatcher，但 `_gen_time_from_fields()` 恒返回 None。\"\"\"\n    # 关键：关闭时间推导\n    def _gen_time_from_fields(self, fields):  # type: ignore[override]\n        return None",
+        "detail": "seishandler_resp.resp_matcher",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "generate_test_sac",
+        "description": "generate_test_sac",
+        "peekOfCode": "def main() -> None:\n    random.seed(SEED)\n    np.random.seed(SEED)\n    # 1. Generate SAC files\n    print(\"Generating synthetic SAC files …\")\n    start_date = UTCDateTime(f\"{YEAR}-01-01\")\n    count = 0\n    for sta, _lat, _lon, _elev in STATIONS:\n        for jjj in range(DAY_RANGE[0], DAY_RANGE[1] + 1):\n            jday_date = start_date + (jjj - 1) * 86400",
+        "detail": "generate_test_sac",
+        "documentation": {}
+    },
+    {
+        "label": "build_resp_lookup",
+        "kind": 2,
+        "importPath": "sac_resp_processor",
+        "description": "sac_resp_processor",
+        "peekOfCode": "def build_resp_lookup(resp_records: List[dict]) -> Dict[Tuple[str, str, str], str]:\n    lut: Dict[Tuple[str, str, str], str] = {}\n    for rec in resp_records:\n        k = _key(rec)\n        if k in lut:\n            logging.warning(\"Duplicate resp for %s.%s.%s; keep first\", *k)\n            continue\n        lut[k] = rec[\"path\"]\n    return lut\n###############################################################################",
+        "detail": "sac_resp_processor",
+        "documentation": {}
+    },
+    {
+        "label": "process_one",
+        "kind": 2,
+        "importPath": "sac_resp_processor",
+        "description": "sac_resp_processor",
+        "peekOfCode": "def process_one(sac: Path, resp: str, rel: Path) -> bool:\n    \"\"\"\n    读取 SAC → 轻量预处理 → 去响应 (RESP) → 写出 SAC。\n    返回 True 表示成功。\n    \"\"\"\n    out_path = OUT_DIR / rel\n    if SKIP_EXISTING and out_path.exists():\n        return True\n    out_path.parent.mkdir(parents=True, exist_ok=True)\n    try:",
+        "detail": "sac_resp_processor",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "sac_resp_processor",
+        "description": "sac_resp_processor",
+        "peekOfCode": "def main() -> None:\n    # 日志配置（先指向控制台；若 daemonize 后会被重定向）\n    logging.basicConfig(\n        level=getattr(logging, LOG_LEVEL),\n        datefmt=\"%Y-%m-%d %H:%M:%S\",\n        format=\"%(asctime)s %(levelname)s %(message)s\",\n    )\n    np.seterr(invalid=\"ignore\")\n    if DAEMON_MODE:\n        _daemonize()",
+        "detail": "sac_resp_processor",
+        "documentation": {}
+    },
+    {
+        "label": "RESP_PATTERN",
+        "kind": 5,
+        "importPath": "sac_resp_processor",
+        "description": "sac_resp_processor",
+        "peekOfCode": "RESP_PATTERN = \"{home}/{resptype}.{network}.{station}.{location}.{component}\"\nRESP_ROOT: Path = Path(\"/data/arrayDATA/dataY3/INFO_Y3_V20200212/RESP_Y3_V20210220_FINAL/Y3/\")\nCUSTOM_RESP = {\n    \"resptype\":  r\"(RESP|StationXML|PAZ|FAP)\",\n    \"location\":  r\"\\d{2}\",          # ← 新增\n}\n# 输出\nOUT_DIR: Path = Path(\"/data/userdata/ludan/wjx_data/y3_1Hz\")\n# 并行 / 日志\nTHREADS: int = 90",
+        "detail": "sac_resp_processor",
+        "documentation": {}
+    },
+    {
+        "label": "CUSTOM_RESP",
+        "kind": 5,
+        "importPath": "sac_resp_processor",
+        "description": "sac_resp_processor",
+        "peekOfCode": "CUSTOM_RESP = {\n    \"resptype\":  r\"(RESP|StationXML|PAZ|FAP)\",\n    \"location\":  r\"\\d{2}\",          # ← 新增\n}\n# 输出\nOUT_DIR: Path = Path(\"/data/userdata/ludan/wjx_data/y3_1Hz\")\n# 并行 / 日志\nTHREADS: int = 90\nLOG_LEVEL: str = \"INFO\"\nLOG_FILE: Path = Path(f\"rmresp_{datetime.now():%Y%m%d_%H%M%S}.log\")",
+        "detail": "sac_resp_processor",
+        "documentation": {}
+    },
+    {
+        "label": "DAEMON_MODE",
+        "kind": 5,
+        "importPath": "sac_resp_processor",
+        "description": "sac_resp_processor",
+        "peekOfCode": "DAEMON_MODE = True   # 后台运行\nSKIP_EXISTING = True\n# 带通滤波 (None = 不滤波)\nFREQ_MIN: float | None = 0.01\nFREQ_MAX: float | None = 0.5\n# PID 文件\nPID_FILE: Path = Path(\"rmresp.pid\")\n# ---------------- CONFIGURATION ----------------\nRESP_FILTER: Dict = {\n    \"resptype\": {\"type\": \"list\", \"value\": [\"RESP\"]}",
+        "detail": "sac_resp_processor",
+        "documentation": {}
+    },
+    {
+        "label": "SKIP_EXISTING",
+        "kind": 5,
+        "importPath": "sac_resp_processor",
+        "description": "sac_resp_processor",
+        "peekOfCode": "SKIP_EXISTING = True\n# 带通滤波 (None = 不滤波)\nFREQ_MIN: float | None = 0.01\nFREQ_MAX: float | None = 0.5\n# PID 文件\nPID_FILE: Path = Path(\"rmresp.pid\")\n# ---------------- CONFIGURATION ----------------\nRESP_FILTER: Dict = {\n    \"resptype\": {\"type\": \"list\", \"value\": [\"RESP\"]}\n}",
+        "detail": "sac_resp_processor",
+        "documentation": {}
+    },
+    {
+        "label": "KEY_FIELDS",
+        "kind": 5,
+        "importPath": "sac_resp_processor",
+        "description": "sac_resp_processor",
+        "peekOfCode": "KEY_FIELDS = (\"network\", \"station\", \"component\")\ndef _key(rec) -> Tuple[str, str, str]:\n    return tuple(rec[k] for k in KEY_FIELDS)\ndef build_resp_lookup(resp_records: List[dict]) -> Dict[Tuple[str, str, str], str]:\n    lut: Dict[Tuple[str, str, str], str] = {}\n    for rec in resp_records:\n        k = _key(rec)\n        if k in lut:\n            logging.warning(\"Duplicate resp for %s.%s.%s; keep first\", *k)\n            continue",
+        "detail": "sac_resp_processor",
+        "documentation": {}
+    },
+    {
+        "label": "read_station_table",
+        "kind": 2,
+        "importPath": "seis_station_updater",
+        "description": "seis_station_updater",
+        "peekOfCode": "def read_station_table() -> Dict[str, Tuple[float, float, Optional[float]]]:\n    \"\"\"Parse station list → {station: (lat, lon, elev)}  (auto delimiter).\"\"\"\n    mapping: Dict[str, Tuple[float, float, Optional[float]]] = {}\n    with STATION_FILE.open() as fh:\n        # 先读取第一行有效内容判断分隔符\n        for line in fh:\n            if line.strip() and not line.lstrip().startswith(\"#\"):\n                delimiter = _detect_delimiter(line)\n                fh.seek(0)                 # 回到文件开头\n                break",
+        "detail": "seis_station_updater",
+        "documentation": {}
+    },
+    {
+        "label": "update_sac_headers",
+        "kind": 2,
+        "importPath": "seis_station_updater",
+        "description": "seis_station_updater",
+        "peekOfCode": "def update_sac_headers(\n    station_files: Dict[str, List[Path]],\n    station_meta: Dict[str, Tuple[float, float, Optional[float]]],\n) -> None:\n    total = sum(len(v) for v in station_files.values())\n    pbar  = tqdm(total=total, desc=\"Writing SAC headers\", unit=\"file\")\n    write_elev = ELEV_COL is not None\n    for sta, files in station_files.items():\n        meta = station_meta.get(sta)\n        if meta is None:",
+        "detail": "seis_station_updater",
+        "documentation": {}
+    },
+    {
+        "label": "make_station_map",
+        "kind": 2,
+        "importPath": "seis_station_updater",
+        "description": "seis_station_updater",
+        "peekOfCode": "def make_station_map(station_meta: Dict[str, Tuple[float, float, Optional[float]]]) -> None:\n    lons, lats = zip(*[(v[1], v[0]) for v in station_meta.values()])\n    fig, ax = plt.subplots(figsize=(8, 5))\n    ax.scatter(lons, lats, marker=\"^\", s=25)\n    for sta, (lat, lon, _e) in station_meta.items():\n        ax.text(lon, lat, sta, fontsize=7)\n    ax.set_xlabel(\"Longitude\")\n    ax.set_ylabel(\"Latitude\")\n    ax.set_title(\"Station distribution\")\n    fig.tight_layout()",
+        "detail": "seis_station_updater",
+        "documentation": {}
+    },
+    {
+        "label": "verify_headers",
+        "kind": 2,
+        "importPath": "seis_station_updater",
+        "description": "seis_station_updater",
+        "peekOfCode": "def verify_headers(\n    station_files: Dict[str, List[Path]],\n    station_meta: Dict[str, Tuple[float, float, Optional[float]]],\n) -> None:\n    \"\"\"Cross-check first SAC header per station and print mismatches.\"\"\"\n    mismatches: List[Tuple[str, str]] = []\n    for sta, files in tqdm(station_files.items(), desc=\"Verifying headers\", unit=\"station\"):\n        meta = station_meta.get(sta)\n        if meta is None:\n            mismatches.append((sta, \"missing_in_table\"))",
+        "detail": "seis_station_updater",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "seis_station_updater",
+        "description": "seis_station_updater",
+        "peekOfCode": "def main() -> None:\n    logging.basicConfig(\n        level=getattr(logging, LOG_LEVEL),\n        format=\"%(asctime)s %(levelname)s %(message)s\",\n        datefmt=\"%Y-%m-%d %H:%M:%S\",\n    )\n    logging.info(\"Scanning files with SeisArray…\")\n    seis = SeisArray(array_dir=str(ARRAY_DIR), pattern=PATTERN)\n    seis.match(threads=THREADS)\n    all_files = seis.files",
+        "detail": "seis_station_updater",
+        "documentation": {}
+    }
+]

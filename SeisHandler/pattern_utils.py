@@ -92,7 +92,6 @@ class FieldRegistry:
         pattern = pattern.replace("{*}", ".*")
         return r"{}".format(pattern)
 
-
 # making this a global variable
 DEFAULT_BASE_FIELDS = OrderedDict(
     {
@@ -103,7 +102,7 @@ DEFAULT_BASE_FIELDS = OrderedDict(
         "JJJ": r"(?P<jday>\d{3})",  # 3 digits for day of year
         "HH": r"(?P<hour>\d{2})",  # 2 digits for hour
         "MI": r"(?P<minute>\d{2})",  # 2 digits for minute
-        "home": r"(?P<home>\w+)",  # for home directory
+        "home": r"(?P<home>[A-Za-z0-9/_-]+)",  # for home directory
         "network": r"(?P<network>\w+)",  # for network code
         "event": r"(?P<event>\w+)",  # for network code
         "station": r"(?P<station>\w+)",  # for station name
