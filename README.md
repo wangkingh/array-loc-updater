@@ -17,6 +17,9 @@
   3. 产出台站散点图 `station_map.png`；  
   4. 校验写入结果，终端输出差异。  
 
+- **sac_resp_processor.py**
+  1. 使用 *SeisHandler* 和 *seisandler_resp* 匹配SAC和对应的仪器响应文件；
+  2. 根据匹配结果进行取仪器响应，目前仅支持RESP格式。
 ---
 
 ## 2 依赖
